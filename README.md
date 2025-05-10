@@ -1,8 +1,8 @@
 <H1>Bem vindo!!!</H1>
 
 
-- 🔭 Atualmente trabalho com Desenvolvimento Web
-- 🌱 Estudando programação voltada para desenvolvimento de IA
+- 🛠️ Atualmente trabalho com Desenvolvimento Web
+- 📚 Estudando programação voltada para desenvolvimento de IA
 
 
 ## Linguagens<br>
