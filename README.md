@@ -7,7 +7,7 @@
 
 ## 🚀 Sobre mim
 
-- 🛠️ Atualmente trabalho com **Desenvolvimento Web** além de estar desenvolvendo um jogo em *LUAU*
+- 🛠️ Atualmente trabalho com **Desenvolvimento Web**
 - 📚 Estudando **programação voltada para Inteligência Artificial**
 - 💡 Curioso por novas tecnologias e apaixonado por resolver problemas com código
 
