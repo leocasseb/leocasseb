@@ -1,7 +1,8 @@
 <h1 align="center">Bem-vindo ao meu perfil! 👋</h1>
 
 <p align="center">
- Sou desenvolvedor com foco em aprendizado contínuo, atualmente aprofundando meus conhecimentos em desenvolvimento web e iniciando estudos em Python para futuras aplicações em Inteligência Artificial.</p>
+ Sou desenvolvedor com foco em aprendizado contínuo, atualmente aprofundando meus conhecimentos sobre C#
+</p>
 
 ---
 
