@@ -8,7 +8,7 @@
 ## 🚀 Sobre mim
 
 - 🛠️ Atualmente trabalho com **Desenvolvimento Web**
-- 📚 Estudando **programação voltada para Inteligência Artificial**
+- 📚 Estudando **programação voltada para criação de API/Chatbot**
 - 💡 Curioso por novas tecnologias e apaixonado por resolver problemas com código
 
 ---
