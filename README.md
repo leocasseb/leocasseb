@@ -1,16 +1,18 @@
-<h1 align="center">Bem-vindo ao meu perfil! 👋</h1>
+<h1 align="center">Olá, eu sou o Leonardo Casseb 👋</h1>
 
 <p align="center">
- Sou desenvolvedor com foco em aprendizado contínuo, atualmente aprofundando meus conhecimentos sobre C#
+Desenvolvedor focado em backend, automações e integrações, com experiência em APIs, workflows e sistemas web.
 </p>
 
 ---
 
 ## 🚀 Sobre mim
 
-- 🛠️ Atualmente trabalho com **Desenvolvimento Web**
-- 📚 Estudando **programação voltada para criação de API/Chatbot**
-- 💡 Curioso por novas tecnologias e apaixonado por resolver problemas com código
+- 🛠️ Atuo com desenvolvimento web e automações
+- 🔗 Experiência com APIs, integrações e workflows
+- 🤖 Estudando IA aplicada, chatbots e arquitetura backend
+- 📈 Interesse em escalabilidade, performance e engenharia de software
+- 💡 Apaixonado por resolver problemas com código
 
 ---
 
@@ -24,7 +26,17 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-%23F7B93E.svg?style=for-the-badge&logo=json&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+
+---
+
+## 📌 Atualmente trabalhando com
+
+- APIs REST
+- Automações com n8n
+- Integrações financeiras e assinatura digital
+- Sistemas internos e dashboards
+- Chatbots e fluxos inteligentes
 
 ---
 
@@ -34,9 +46,11 @@
   <a href="mailto:leocassebwork@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+
   <a href="https://www.linkedin.com/in/leocassebdev/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+
   <a href="https://instagram.com/leo.casseb_" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
